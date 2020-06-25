@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d78834b1-58db-4391-bfb2-d3684d501ce3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/apache-maven-3.6.3/lib" />
+        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YGTRXqPjNfZ6BcqQoZTIyPtdNE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.StreamsMappingExample">
+    <configuration name="NumericStreamsBoxingUnboxingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumericStream.NumericStreamsBoxingUnboxingExample" />
+      <module name="java-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NumericStream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamsCountingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams_terminal.StreamsCountingExample" />
+      <module name="java-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streams_terminal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamsJoiningExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams_terminal.StreamsJoiningExample" />
+      <module name="java-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streams_terminal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamsMappingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams_terminal.StreamsMappingExample" />
+      <module name="java-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streams_terminal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="numericStreamMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumericStream.numericStreamMapExample" />
+      <module name="java-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NumericStream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StreamsMappingExample" />
+        <item itemvalue="Application.StreamsCountingExample" />
+        <item itemvalue="Application.StreamsJoiningExample" />
+        <item itemvalue="Application.numericStreamMapExample" />
+        <item itemvalue="Application.NumericStreamsBoxingUnboxingExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d78834b1-58db-4391-bfb2-d3684d501ce3" name="Default Changelist" comment="" />
+      <created>1582567923435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582567923435</updated>
+      <workItem from="1582567927008" duration="4712000" />
+      <workItem from="1582916224195" duration="13010000" />
+      <workItem from="1583539720905" duration="903000" />
+      <workItem from="1583788882575" duration="32000" />
+      <workItem from="1583790562120" duration="2378000" />
+      <workItem from="1585784647856" duration="2792000" />
+      <workItem from="1592186222772" duration="13693000" />
+      <workItem from="1592524057220" duration="7884000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="441" y="163" key="#Auto_Import" timestamp="1592858803744">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="441" y="162" key="#Auto_Import/0.23.1680.947/0.-1417.2560.1417@0.23.1680.947" timestamp="1592435196477" />
+    <state x="441" y="163" key="#Auto_Import/0.23.1680.956/0.-1417.2560.1417@0.23.1680.956" timestamp="1592858803744" />
+    <state x="654" y="219" key="#com.intellij.ide.util.MemberChooser" timestamp="1592434752343">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="654" y="219" key="#com.intellij.ide.util.MemberChooser/0.23.1680.947/0.-1417.2560.1417@0.23.1680.947" timestamp="1592434752343" />
+    <state width="1638" height="185" key="GridCell.Tab.0.bottom" timestamp="1593035980551">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1638" height="89" key="GridCell.Tab.0.bottom/-2560.-402.2560.1417/0.23.1680.949@0.23.1680.949" timestamp="1585849112610" />
+    <state width="1638" height="185" key="GridCell.Tab.0.bottom/0.23.1680.947/0.-1417.2560.1417@0.23.1680.947" timestamp="1593035980551" />
+    <state width="1638" height="185" key="GridCell.Tab.0.bottom/0.23.1680.949/0.-1417.2560.1417@0.23.1680.949" timestamp="1592541832511" />
+    <state width="1638" height="185" key="GridCell.Tab.0.bottom/0.23.1680.956/0.-1417.2560.1417@0.23.1680.956" timestamp="1592859930967" />
+    <state width="1638" height="185" key="GridCell.Tab.0.bottom/0.23.1680.958/0.-1417.2560.1417@0.23.1680.958" timestamp="1592858598328" />
+    <state width="1638" height="185" key="GridCell.Tab.0.bottom/0.23.1680.960/0.-1417.2560.1417@0.23.1680.960" timestamp="1592858410730" />
+    <state width="1638" height="189" key="GridCell.Tab.0.bottom/0.23.1680.961/0.-1417.2560.1417@0.23.1680.961" timestamp="1592346309114" />
+    <state width="1638" height="189" key="GridCell.Tab.0.bottom/0.23.1680.963/0.-1417.2560.1417@0.23.1680.963" timestamp="1592414107134" />
+    <state width="1638" height="189" key="GridCell.Tab.0.bottom/0.23.1680.965/0.-1417.2560.1417@0.23.1680.965" timestamp="1592348285664" />
+    <state width="1638" height="185" key="GridCell.Tab.0.center" timestamp="1593035980550">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1638" height="89" key="GridCell.Tab.0.center/-2560.-402.2560.1417/0.23.1680.949@0.23.1680.949" timestamp="1585849112609" />
+    <state width="1638" height="185" key="GridCell.Tab.0.center/0.23.1680.947/0.-1417.2560.1417@0.23.1680.947" timestamp="1593035980550" />
+    <state width="1638" height="185" key="GridCell.Tab.0.center/0.23.1680.949/0.-1417.2560.1417@0.23.1680.949" timestamp="1592541832510" />
+    <state width="1638" height="185" key="GridCell.Tab.0.center/0.23.1680.956/0.-1417.2560.1417@0.23.1680.956" timestamp="1592859930966" />
+    <state width="1638" height="185" key="GridCell.Tab.0.center/0.23.1680.958/0.-1417.2560.1417@0.23.1680.958" timestamp="1592858598327" />
+    <state width="1638" height="185" key="GridCell.Tab.0.center/0.23.1680.960/0.-1417.2560.1417@0.23.1680.960" timestamp="1592858410729" />
+    <state width="1638" height="189" key="GridCell.Tab.0.center/0.23.1680.961/0.-1417.2560.1417@0.23.1680.961" timestamp="1592346309113" />
+    <state width="1638" height="189" key="GridCell.Tab.0.center/0.23.1680.963/0.-1417.2560.1417@0.23.1680.963" timestamp="1592414107133" />
+    <state width="1638" height="189" key="GridCell.Tab.0.center/0.23.1680.965/0.-1417.2560.1417@0.23.1680.965" timestamp="1592348285662" />
+    <state width="1638" height="185" key="GridCell.Tab.0.left" timestamp="1593035980550">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1638" height="89" key="GridCell.Tab.0.left/-2560.-402.2560.1417/0.23.1680.949@0.23.1680.949" timestamp="1585849112609" />
+    <state width="1638" height="185" key="GridCell.Tab.0.left/0.23.1680.947/0.-1417.2560.1417@0.23.1680.947" timestamp="1593035980550" />
+    <state width="1638" height="185" key="GridCell.Tab.0.left/0.23.1680.949/0.-1417.2560.1417@0.23.1680.949" timestamp="1592541832510" />
+    <state width="1638" height="185" key="GridCell.Tab.0.left/0.23.1680.956/0.-1417.2560.1417@0.23.1680.956" timestamp="1592859930965" />
+    <state width="1638" height="185" key="GridCell.Tab.0.left/0.23.1680.958/0.-1417.2560.1417@0.23.1680.958" timestamp="1592858598327" />
+    <state width="1638" height="185" key="GridCell.Tab.0.left/0.23.1680.960/0.-1417.2560.1417@0.23.1680.960" timestamp="1592858410728" />
+    <state width="1638" height="189" key="GridCell.Tab.0.left/0.23.1680.961/0.-1417.2560.1417@0.23.1680.961" timestamp="1592346309113" />
+    <state width="1638" height="189" key="GridCell.Tab.0.left/0.23.1680.963/0.-1417.2560.1417@0.23.1680.963" timestamp="1592414107133" />
+    <state width="1638" height="189" key="GridCell.Tab.0.left/0.23.1680.965/0.-1417.2560.1417@0.23.1680.965" timestamp="1592348285662" />
+    <state width="1638" height="185" key="GridCell.Tab.0.right" timestamp="1593035980551">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1638" height="89" key="GridCell.Tab.0.right/-2560.-402.2560.1417/0.23.1680.949@0.23.1680.949" timestamp="1585849112610" />
+    <state width="1638" height="185" key="GridCell.Tab.0.right/0.23.1680.947/0.-1417.2560.1417@0.23.1680.947" timestamp="1593035980551" />
+    <state width="1638" height="185" key="GridCell.Tab.0.right/0.23.1680.949/0.-1417.2560.1417@0.23.1680.949" timestamp="1592541832511" />
+    <state width="1638" height="185" key="GridCell.Tab.0.right/0.23.1680.956/0.-1417.2560.1417@0.23.1680.956" timestamp="1592859930966" />
+    <state width="1638" height="185" key="GridCell.Tab.0.right/0.23.1680.958/0.-1417.2560.1417@0.23.1680.958" timestamp="1592858598328" />
+    <state width="1638" height="185" key="GridCell.Tab.0.right/0.23.1680.960/0.-1417.2560.1417@0.23.1680.960" timestamp="1592858410729" />
+    <state width="1638" height="189" key="GridCell.Tab.0.right/0.23.1680.961/0.-1417.2560.1417@0.23.1680.961" timestamp="1592346309114" />
+    <state width="1638" height="189" key="GridCell.Tab.0.right/0.23.1680.963/0.-1417.2560.1417@0.23.1680.963" timestamp="1592414107134" />
+    <state width="1638" height="189" key="GridCell.Tab.0.right/0.23.1680.965/0.-1417.2560.1417@0.23.1680.965" timestamp="1592348285663" />
+    <state x="519" y="332" key="com.intellij.ide.util.TipDialog" timestamp="1592524058636">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="519" y="332" key="com.intellij.ide.util.TipDialog/0.23.1680.947/0.-1417.2560.1417@0.23.1680.947" timestamp="1592524058636" />
+    <state x="519" y="335" key="com.intellij.ide.util.TipDialog/0.23.1680.956/0.-1417.2560.1417@0.23.1680.956" timestamp="1592186222291" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk/Contents/Home/src.zip!/java/lang/Iterable.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk/Contents/Home/src.zip!/java/lang/Iterable.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/learn/java/FuntionalInterfaces/BiConsumerExample.java</url>
+          <line>14</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
