@@ -28,6 +28,7 @@ public class ImperativeVsDeclarativeExample {
         for (Integer integer : integerList) {
             if(!uniqueList.contains(integer)){
                 uniqueList.add(integer);
+
             }
         }
         System.out.println("uniqueList : " + uniqueList);
